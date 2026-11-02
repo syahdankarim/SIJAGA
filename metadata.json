@@ -1,0 +1,6 @@
+{
+  "name": "EcoTrace: Smart Environmental Accounting System",
+  "description": "Sistem Akuntansi Lingkungan Cerdas terintegrasi dengan AI, Blockchain Ledger, ERP, Manajemen Karbon, dan Pelaporan Keberlanjutan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
